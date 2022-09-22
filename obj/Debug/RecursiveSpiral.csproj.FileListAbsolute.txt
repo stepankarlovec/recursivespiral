@@ -1,0 +1,7 @@
+C:\Users\karlo\source\repos\CviceniZProgramovaniTrap\RecursiveSpiral\bin\Debug\RecursiveSpiral.exe.config
+C:\Users\karlo\source\repos\CviceniZProgramovaniTrap\RecursiveSpiral\bin\Debug\RecursiveSpiral.exe
+C:\Users\karlo\source\repos\CviceniZProgramovaniTrap\RecursiveSpiral\bin\Debug\RecursiveSpiral.pdb
+C:\Users\karlo\source\repos\CviceniZProgramovaniTrap\RecursiveSpiral\obj\Debug\RecursiveSpiral.csproj.CoreCompileInputs.cache
+C:\Users\karlo\source\repos\CviceniZProgramovaniTrap\RecursiveSpiral\obj\Debug\RecursiveSpiral.exe
+C:\Users\karlo\source\repos\CviceniZProgramovaniTrap\RecursiveSpiral\obj\Debug\RecursiveSpiral.pdb
+C:\Users\karlo\source\repos\CviceniZProgramovaniTrap\RecursiveSpiral\obj\Debug\RecursiveSpiral.csproj.AssemblyReference.cache
